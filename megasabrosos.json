@@ -1,0 +1,52 @@
+[
+    {
+      "id": 8,
+      "nombre": "Clasico",
+      "precio": 100,
+      "toppings": "Pán arabe, jamon, queso tomate y huevo",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Pollo Caesar",
+      "precio": 150,
+      "toppings": "Pechuga Grille, l;echuga, queso, salsa caesar",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "nombre": "Mega Crispi",
+      "precio": 200,
+      "toppings": "Carne o pollo rebozado crocante, lechuga, cheddar, mayonesa de provenzal",
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "nombre": "Criollo",
+      "precio": 250,
+      "toppings": "Churrasco de cuadril, cebolla colorada, pepinos, mostaza, barbacoa",
+      "cantidad": 1
+    },
+    {
+      "id": 12,
+      "nombre": "Suizanesa",
+      "precio": 300,
+      "toppings": "Milanesa de ternera o pollo, queso muzzarella, cebolla, salsa blanca, provolon, parmesano",
+      "cantidad": 1
+    },
+    {
+      "id": 13,
+      "nombre": "Bondio Deluxe",
+      "precio": 350,
+      "toppings": "Bondiola de cerdo, cebolla caramelizada, bacon, cheddar, salsa barbacoa, huevo frito",
+      "cantidad": 1
+    },
+    {
+      "id": 14,
+      "nombre": "Chorivoleta",
+      "precio": 400,
+      "toppings": "Chorizo puro de cerdo, cebolla, tomate, morron, queso provlone",
+      "cantidad": 1
+    }
+  ]
+  

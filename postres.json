@@ -1,0 +1,27 @@
+[
+    {
+      "id": 15,
+      "nombre": "Almendrado",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 16,
+      "nombre": "Ensalada de frutas",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 17,
+      "nombre": "Oreo rocklets",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 18,
+      "nombre": "Tiramisu",
+      "precio": 300,
+      "cantidad": 1
+    }
+  ]
+  

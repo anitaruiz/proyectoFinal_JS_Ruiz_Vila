@@ -1,0 +1,38 @@
+[
+    {
+      "id": 3,
+      "nombre": "Simple",
+      "precio": 100,
+      "toppings": "Pán, medallon de carne",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Americana",
+      "precio": 150,
+      "toppings": "(Carne, cheddar, bacon, cebolla, barbacoa",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Capresse",
+      "precio": 200,
+      "toppings": "Carne,queso blanco, tomate, rucula, albahaca, oregano",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Argenta",
+      "precio": 250,
+      "toppings": "Carne, cheddar, jamon, cebolla, morron, huevo frito",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "Frango",
+      "precio": 300,
+      "toppings": "Pollo, queso blanco, tomate, lechuga, pepino, mayonesa",
+      "cantidad": 1
+    }
+  ]
+  

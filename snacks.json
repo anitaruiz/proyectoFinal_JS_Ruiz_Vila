@@ -1,0 +1,27 @@
+[
+    {
+      "id": 19,
+      "nombre": "Papas fritas",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 20,
+      "nombre": "Nuggets",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 21,
+      "nombre": "Aros de cebolla",
+      "precio": 300,
+      "cantidad": 1
+    },
+    {
+      "id": 22,
+      "nombre": "Cerdo rebozado",
+      "precio": 300,
+      "cantidad": 1
+    }
+  ]
+  
